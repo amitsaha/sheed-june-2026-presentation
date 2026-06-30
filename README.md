@@ -1,5 +1,7 @@
 # AI Case Study - Computer Vision
 
+Delivered on June 29, 2026.
+
 I delivered a lecture (AI Case study: Computer Vision) at the [Artificial Intelligence in Healthcare](https://health-exec-ed.sydney.edu.au/web/content/continuing-education/registration/sheed_event.aspx?EventKey=CSSHEE2576) course run by the University of Sydney Health Executive Education folks.
 
 # Presentation
@@ -17,3 +19,7 @@ AI offerings and then modified them.
 # LICENSE
 
 MIT, See LICENSE.
+
+# Questions/Comments
+
+Please contact me via email found in the presentation material
